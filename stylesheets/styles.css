@@ -1,13 +1,13 @@
 /* 1er commit - Cambiar el fondo de la pagina */
 body {
-  background: #161514;
+  background: #4a1ff7;
   font-size : 16px;
 }
 
 /* 2do commit - Cambiar el color de los textos y botones de las redes sociales */
 ul li a p {
-  color          : #FFFFFF;
-  background     : #E94016;
+  color          : #000000;
+  background     : #8bbc4e;
   width          : 75%;
   list-style-type: none;
   padding        : .3em 1em .3em;
@@ -17,7 +17,7 @@ ul li a p {
 
 /* 3er commit - Cambiar el color de la barra lateral */
 header.sidebar {
-  background-color: #EEEEEE;
+  background-color: #ee0d0d;
   width           : 30%;
   background-size : cover;
   display         : inline-block;
@@ -29,7 +29,7 @@ header.sidebar {
 
 /* 4to commit - Cambiar el color la barra donde esta "TU CARRERA" */
 div.comunidad-autoria {
-  background: #000000;
+  background: #ececec;
   padding   : 3% 0;
   margin    : 12% 0;
 }
@@ -54,13 +54,13 @@ div.bloque p {
 
 /* 5to commit - Cambiar el color de texto de "TU CARRERA" (Si es que es necesario) */
 div.carrera p {
-  color: #ffffff
+  color: #0b7654
 }
 
 /* 5to commit - Cambiar el color de texto de "BIENVENIDO" y "PASATIEMPOS" (Si es que es necesario) */
 /*            - Tambien puedes cambiar de color la linea que esta debajo de dichos titulos */
 h3 {
-  border-bottom : 1px #4c00ff solid;
+  border-bottom : 8px #030008 solid;
   color         : #FFF7F7;
   text-transform: uppercase;
   font-size     : 13px;
